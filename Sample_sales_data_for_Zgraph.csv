@@ -23,6 +23,7 @@ date,product,sales
 2022-10-31,sales_A,260
 2022-11-30,sales_A,271
 2022-12-31,sales_A,332
+2023-01-15,sales_A,166
 2021-01-31,sales_B,173
 2021-02-28,sales_B,135
 2021-03-31,sales_B,150
@@ -47,6 +48,7 @@ date,product,sales
 2022-10-31,sales_B,146
 2022-11-30,sales_B,137
 2022-12-31,sales_B,158
+2023-01-15,sales_B,79
 2021-01-31,sales_C,182
 2021-02-28,sales_C,203
 2021-03-31,sales_C,190
@@ -71,3 +73,4 @@ date,product,sales
 2022-10-31,sales_C,75
 2022-11-30,sales_C,68
 2022-12-31,sales_C,72
+2023-01-15,sales_C,36
